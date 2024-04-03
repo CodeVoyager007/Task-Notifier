@@ -15,5 +15,3 @@ Python script to display a notification .
 - Adjust `time.sleep()` for delay before notification.
 
 🚀 **Happy Coding!** 🚀
-
-</
